@@ -8,7 +8,7 @@ I love coding.
 
 * 🌍  I'm based in Colombo
 * ✉️  You can contact me at [dahemisankalpana@gmail.com](mailto:dahemisankalpana@gmail.com)
-* 🧠  I'm learning JavaScript,CSS,Html
+* 🧠  I'm learning JavaScript,CSS,Html,Java,MVC,React.js,Node.js,MongoDB
 
 <a href="https://www.github.com/Dahemi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dahemi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
