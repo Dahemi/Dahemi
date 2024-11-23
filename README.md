@@ -9,8 +9,10 @@ I'm Dahami, an aspiring developer currently exploring web and mobile application
 
 🔭 What I'm Learning:
 
-Frontend: React.js (beginner level).
+Frontend: React.js (beginner level). 
+
 Backend: Basics of Node.js, Express.js, and MongoDB (MERN stack).
+
 Mobile Development: Kotlin for Android apps.
 
 🌱 Goals:
