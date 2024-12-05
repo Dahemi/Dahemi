@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hi there! 👋
 I'm Dahami, an aspiring developer currently exploring web and mobile application development.
 
-🔭 What I'm Learning:
+###🔭 What I'm Learning:
 
 Frontend: React.js (beginner level). 
 
@@ -15,7 +15,7 @@ Backend: Basics of Node.js, Express.js, and MongoDB (MERN stack).
 
 Mobile Development: Kotlin for Android apps.
 
-🌱 Goals:
+###🌱 Goals:
 
 Master data structures and algorithms for problem-solving.
 Build full-stack web and mobile applications as practice projects.
